@@ -1,5 +1,2 @@
 # Vendor dependecies
 /vendor
-
-# database
-db.sqlite
